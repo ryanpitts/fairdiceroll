@@ -81,9 +81,10 @@ html, body {
     text-align: center;
 }
 
-#results .footnote .twitter-share-button {
+#results .footnote .twitter-share-button, #results .footnote .google-share-button {
     font-size: 18px;
     font-style: normal;
+    margin: 0 10px;
 }
 
 #footer {
